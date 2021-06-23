@@ -13,7 +13,7 @@
 	Gateway: Ubiquiti Unifi Dream Machine Pro.
 	Wireless Access Point: Unifi Nano HD
 	ISP info:
-		Pay for 150 down, 15 up, typically get 150 down 10 up. Speed tests occur every 24 hours. ISP is not down very often
+		Pay for 150 down, 15 up, typically get 150 down 10 up. Speed tests occur every 24 hours. ISP is not down very often. Peers at MICEMN and OmahaIX. Can directly connect to the university.
 	Notes: All of this is on my UPS
 # Other
 	Rack: 1x lockable Colocation rack with cooling fans and a slot for a dust filter
