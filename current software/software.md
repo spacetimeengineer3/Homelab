@@ -1,8 +1,8 @@
-##Current Software
+## Current Software
 
 Hypervisor/Virtual Enviroment: Proxmox VE
 
-#Software running on Virtual Machines(Not including dependencies):
+# Software running on Virtual Machines(Not including dependencies):
 
 database: Ubuntu 20.04 LTS, Apache, MariaDB, PHP (LAMP)
 
