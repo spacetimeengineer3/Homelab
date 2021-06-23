@@ -1,8 +1,8 @@
-## Current Software
+# Current Software
 
 Hypervisor/Virtual Enviroment: Proxmox VE
 
-# Software running on Virtual Machines(Not including dependencies):
+## Software running on Virtual Machines(Not including dependencies):
 
 database: Ubuntu 20.04 LTS, Apache, MariaDB, PHP (LAMP)
 
@@ -16,7 +16,7 @@ web: docker, wordpress (containerized)
 
 sync: docker, photoprism (containerized), resilio sync (containerized)
 
-cleo (academic VM named after my cat): docker, g++, gcc, LAMP stack using MariaDB (todo), SageMath (todo)
+cleo: (academic VM named after my cat): docker, g++, gcc, LAMP stack using MariaDB (todo), SageMath (todo), xclip
 
 superlinux (local ubuntu mirror) (todo)
 
