@@ -18,7 +18,7 @@ sync: docker, photoprism (containerized), resilio sync (containerized)
 
 cleo: (academic VM named after my cat): docker, g++, gcc, LAMP stack using MariaDB (todo), SageMath (todo), xclip
 
-superlinux (local ubuntu mirror) (todo)
+wharehouse (local ubuntu mirror) (todo)
 
 
 
