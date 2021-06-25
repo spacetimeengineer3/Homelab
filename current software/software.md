@@ -18,7 +18,8 @@ sync: docker, photoprism (containerized), resilio sync (containerized)
 
 cleo: (academic VM named after my cat): docker, g++, gcc, LAMP stack using MariaDB (todo), SageMath (todo), xclip
 
-wharehouse (local ubuntu mirror) (todo)
+vicksburg: (local ubuntu mirror and general services)
+  namesake: [Vicksburg Campagin](https://en.wikipedia.org/wiki/Vicksburg_campaign)
 
 
 
